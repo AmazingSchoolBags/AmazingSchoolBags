@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mohamed Chaouay Tissir | Cloud & Cybersecurity Engineer ☁️🛡️
 
-<!--
-**AmazingSchoolBags/AmazingSchoolBags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par les infrastructures Cloud, la virtualisation et la cybersécurité, je conçois et audite des environnements sécurisés.
 
-Here are some ideas to get you started:
+🚀 **Expertise Cloud & Virtualisation :**
+* [cite_start]**AWS :** Architecture DevSecOps, RDS Multi-AZ, Automatisation via AWS CLI[cite: 717, 1552].
+* **Azure :** Topologie Hub-and-Spoke, Zero Trust, Bastion & Private Endpoints.
+* **Proxmox :** Administration de clusters de virtualisation et gestion de conteneurs/VMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ **Cybersecurity & Réseau :**
+* **Pentest AD :** Exploitation Kerberos (Kerberoasting, AS-REP Roasting), BloodHound, DCSync.
+* **Firewalling :** Expertise sur les solutions Stormshield (SNS) pour la protection périmétrique.
+
+🎓 **Formation :** E4 (Projets 2025-2026) - Major sur les soutenances orales (18/20).
